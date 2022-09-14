@@ -1,0 +1,68 @@
+.navbar-container
+{
+    display:flex;
+    align-items: center;
+    height:50px;
+    margin:50px;
+    justify-content: space-between;
+    margin-left: 140px;
+
+}
+.grow-list
+{
+
+  margin-right: auto;
+    
+}
+
+.list-item
+{
+    display:inline-block;
+    margin-right: 10px;
+    padding:10px;
+    color:grey;
+}
+.button-group{
+
+    margin-right:10%;
+
+}
+
+.nav-button
+{
+    width: 200px;
+    height:50px;
+    border-radius: 20px;
+    background-color: rgb(188, 3, 255);
+    border:hidden;
+    color:white;
+}
+
+h1.heading-text > span{
+    color:blueviolet;
+}
+
+.banner-container
+{
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.heading-text
+{
+    font-size: 90px;
+    margin-bottom:0;
+}
+.description
+{
+    text-align: justify;
+    font-size:20px;
+    color:gray;
+    margin-top: 5%;
+}
+
+.btn{
+    margin-left:15%;
+    margin-right:10%;
+    width:200px;
+}
